@@ -1,0 +1,31 @@
+.food-landing {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #f8f9fa;
+    padding: 2rem;
+}
+
+.food-landing h1 {
+    font-size: 2.5rem;
+    color: #333;
+}
+
+.food-landing p {
+    font-size: 1.25rem;
+    color: #555;
+}
+
+.food-landing .food-item {
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.food-landing .food-item img {
+    max-width: 100%;
+    height: auto;
+}

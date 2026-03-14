@@ -1,0 +1,20 @@
+# Git Ignore
+
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+bower_components/
+
+# Build output
+dist/
+build/
+
+# Misc
+.DS_Store
+Thumbs.db
